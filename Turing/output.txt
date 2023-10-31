@@ -1,0 +1,95 @@
+Steps:
+State: q1	Tape: _111*1111
+                      ^
+State: q2	Tape: _111*1111
+                       ^
+State: q3	Tape: __11*1111
+                        ^
+State: q4	Tape: ___1*1111
+                         ^
+State: q4	Tape: ___1*1111
+                          ^
+State: q5	Tape: ___111111
+                           ^
+State: q6	Tape: ___111111
+                            ^
+State: q6	Tape: ___111011
+                             ^
+State: q6	Tape: ___111001
+                              ^
+State: q6	Tape: ___111000_
+                               ^
+State: q7	Tape: ___111000_
+                              ^
+State: q8	Tape: ___111001_
+                               ^
+State: q9	Tape: ___1110011_
+                                ^
+State: q7	Tape: ___11100111
+                               ^
+State: q7	Tape: ___11100111
+                              ^
+State: q7	Tape: ___11100111
+                             ^
+State: q8	Tape: ___11101111
+                              ^
+State: q8	Tape: ___11101111
+                               ^
+State: q8	Tape: ___11101111
+                                ^
+State: q8	Tape: ___11101111_
+                                 ^
+State: q9	Tape: ___111011111_
+                                  ^
+State: q7	Tape: ___1110111111
+                                 ^
+State: q7	Tape: ___1110111111
+                                ^
+State: q7	Tape: ___1110111111
+                               ^
+State: q7	Tape: ___1110111111
+                              ^
+State: q7	Tape: ___1110111111
+                             ^
+State: q7	Tape: ___1110111111
+                            ^
+State: q8	Tape: ___1111111111
+                             ^
+State: q8	Tape: ___1111111111
+                              ^
+State: q8	Tape: ___1111111111
+                               ^
+State: q8	Tape: ___1111111111
+                                ^
+State: q8	Tape: ___1111111111
+                                 ^
+State: q8	Tape: ___1111111111
+                                  ^
+State: q8	Tape: ___1111111111_
+                                   ^
+State: q9	Tape: ___11111111111_
+                                    ^
+State: q7	Tape: ___111111111111
+                                   ^
+State: q7	Tape: ___111111111111
+                                  ^
+State: q7	Tape: ___111111111111
+                                 ^
+State: q7	Tape: ___111111111111
+                                ^
+State: q7	Tape: ___111111111111
+                               ^
+State: q7	Tape: ___111111111111
+                              ^
+State: q7	Tape: ___111111111111
+                             ^
+State: q7	Tape: ___111111111111
+                            ^
+State: q7	Tape: ___111111111111
+                           ^
+State: q7	Tape: ___111111111111
+                          ^
+State: q7	Tape: ___111111111111
+                         ^
+State: q7	Tape: ___111111111111
+                        ^
